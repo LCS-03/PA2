@@ -88,6 +88,12 @@ body {
 .texto {
     flex: 1;
     padding-right: 20px;
+    text-align: left;
+}
+
+.texto b i {
+    margin-right: 5px;
+    color: #007bff;
 }
 
 .imagen_lado img {
@@ -107,3 +113,5 @@ body {
     margin-top: 40px;
     font-size: 14px;
 }
+
+
